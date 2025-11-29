@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Kamran Aslam 👋
 
-<!--
-**kamraann01/kamraann01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** | Cloud & Automation Enthusiast ☁️
 
-Here are some ideas to get you started:
+🔧 Building scalable, reliable, and secure infrastructure as code  
+🚀 Passionate about CI/CD, Kubernetes, Terraform, Docker, and everything in between  
+🛠️ Tools I love: AWS | Azure | GCP | GitHub Actions | ArgoCD | Prometheus | Ansible | Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently automating all the things and making deploys boring (in a good way) 😄
+
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran-aslam-devops-engineer/) 
+> "If it’s not in Git, it doesn’t exist." – Me, probably
