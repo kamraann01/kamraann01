@@ -1,13 +1,56 @@
-# Hi there, I'm Kamran Aslam 👋
+# <span class="blink">Kamran Aslam</span>
 
-**DevOps Engineer** | Cloud & Automation Enthusiast ☁️
+<span class="title"> DevOps Engineer • AWS Cloud Enthusiast</span>
 
-🔧 Building scalable, reliable, and secure infrastructure as code  
-🚀 Passionate about CI/CD, Kubernetes, Terraform, Docker, and everything in between  
-🛠️ Tools I love: AWS | Azure | GCP | GitHub Actions | ArgoCD | Prometheus | Ansible | Jenkins
+<style>
+.blink {
+  font-size: 2.7rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, #FF9900, #FFB84D, #FF9900);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: awsFlow 5s ease infinite;
+}
 
-Currently automating all the things and making deploys boring (in a good way) 😄
+.title {
+  font-size: 1.3rem;
+  font-weight: 500;
+  background: linear-gradient(90deg, #232F3E, #146EB4, #232F3E);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: titleFlow 7s linear infinite;
+}
 
-📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran-aslam-devops-engineer/) 
-> "If it’s not in Git, it doesn’t exist." – Me, probably
+@keyframes awsFlow {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes titleFlow {
+  0%   { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+</style>
+
+Learning and building reliable, automated AWS infrastructure to support modern applications.
+
+### Skills & Tools
+- **Infrastructure as Code** → AWS CloudFormation, Terraform
+- **Containerization** → Docker, Amazon ECS, ECR
+- **CI/CD Pipelines** → GitHub Actions, AWS CodePipeline/CodeBuild
+- **Monitoring** → CloudWatch,  Prometheus+Grafana
+- **AWS Services** → EC2, S3, RDS, Lambda, VPC, IAM, Route 53
+- **Scripting & Tools** → Bash, Python (boto3), Git
+
+### Currently Exploring
+- Amazon EKS and Kubernetes fundamentals
+- Serverless workflows with Lambda and Step Functions
+
+Passionate about automating repetitive tasks and making deployments smooth. Always eager to learn new AWS services and DevOps best practices.
+
+→ linkedin.com/in/kamran-aslam-devops-engineer/  
+→ Open to Junior DevOps and Cloud Engineer opportunities
